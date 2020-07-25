@@ -1,0 +1,100 @@
+h2{
+    border: 2px solid black;
+    color: #fff;
+    margin-top: 100;
+    padding: 5;
+    background-color: darkcyan;
+}
+.inp{
+    border: 2px solid black;
+    margin: 10;
+    padding: 5 10;
+}
+.btn{
+    border: 2px solid black;
+    margin: 10;
+    padding: 5 74;
+    color: #fff;
+    background-color: darkcyan;
+    
+}
+.blue{
+    color: blue;
+}
+.eml{
+    color: darkgray;
+    
+}
+.fb{
+    margin: 10;
+    padding: 5 90;
+    background-color: #3b5998;
+}
+.go{
+    margin: 10;
+    padding: 5 90;
+    background-color: #D44638;
+}
+.epam{
+    font-weight: bold;
+    margin: 10;
+    padding: 4 60;
+    background-color: rgb(212, 163, 56);
+}
+.tab { 
+    display: inline-block; 
+    margin-left: 30px; 
+} 
+i{
+    width: 20px !important;
+    height: 20px !important;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+p{
+    color: lightgrey;
+}
+body{
+    margin-left: 550;
+    margin-right: 550;
+}
+
+h2{
+    color: #fff;
+    margin: 100px 500px 10px 500px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: darkcyan;
+}
+.inp{
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+}
+.btn{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px 90px;
+    color: #fff;
+    background-color: darkcyan;
+    
+}
+.eml{
+    
+    color: darkgray;
+    padding: 5px 10px;
+}
+i{
+    width: 24px !important;
+    height: 24px !important;
+}
+div{
+    margin-left: 500px;
+    margin-right: 500px; 
+}
+fieldset{
+    padding: 30px;
+}
